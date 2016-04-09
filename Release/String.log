@@ -1,0 +1,7 @@
+﻿  Transformation.cpp
+Transformation.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+Transformation.cpp(62): warning C4018: '<' : signed/unsigned mismatch
+Transformation.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  String.vcxproj -> C:\Users\Юрiй\Local_repository\String\Release\String.exe
